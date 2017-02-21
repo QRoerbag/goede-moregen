@@ -1,0 +1,53 @@
+html{
+	background-size: cover;
+}
+
+body.morgen{
+
+	background: url(morning.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+body.middag{
+
+	background: url(afternoon.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+body.avond{
+
+	background: url(evening.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+body.nacht{
+
+	background: url(night.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+h1.goeie{
+	text-align: center;
+	font-family: "Courier new";
+	font-size: 75px;
+	color: darkgrey;
+	margin-top: 125px;
+}
+
+h1.tis{
+	text-align: center;
+	font-family: "Courier new";
+	font-size: 50px;
+	color: darkgrey;
+
+}
+
+div.basis{
+	position: relative;
+	margin: auto;
+	background-color: none;
+}
